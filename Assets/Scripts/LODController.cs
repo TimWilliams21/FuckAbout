@@ -13,7 +13,7 @@ public class LODController : MonoBehaviour
 
 	public MeshFilter thisMeshFilter;
 
-	public bool isHighRes;
+	public bool isHighRes = false;
 
 	public float Distance;
 
